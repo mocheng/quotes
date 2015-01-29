@@ -226,7 +226,7 @@ Debug的时候，菜鸟程序员会添加新代码矫正当前的错误，专业
 
 "Throw away your bag of tricks. Be truly clever: Write boring code"
 
-把你一袋子的“技巧”，做真正的聪明：写无聊地代码。
+扔掉你收集的那袋子“技巧”，做真正聪明的事：写枯燥的代码。
 
 
 ##2014/12/16
