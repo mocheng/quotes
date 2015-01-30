@@ -137,7 +137,11 @@ Debug的时候，菜鸟程序员会添加新代码矫正当前的错误，专业
 
 
 ##2015/01/03
-“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.” --李小龙
+“I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.” --Bruce Lee
+
+我不怕练过一万种踢法的人，我只怕一招练过一万次的人。——李小龙
+
+（这句应该可以用中国古话来翻译：不怕千招会，就怕一招精。）
 
 
 
