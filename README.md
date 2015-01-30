@@ -9,7 +9,7 @@ software engineering quotes
 ##2015/01/30
 "The sooner you start coding, the longer it's going to take."
 
-开始动手编码越早，编码花费的时间越TMD的长。
+开始动手编码越早，编码花费的时间越TMD长。
 
 ##2015/01/29
 "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil" 
