@@ -6,6 +6,10 @@ software engineering quotes
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
 
+##2015/01/30
+"The sooner you start coding, the longer it's going to take."
+
+开始动手编码越早，编码花费的时间越TMD的长。
 
 ##2015/01/29
 "We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil" 
