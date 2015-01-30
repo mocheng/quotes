@@ -226,7 +226,7 @@ Debug的时候，菜鸟程序员会添加新代码矫正当前的错误，专业
 ##2014/12/17
 "A developer being scared of the command line is like a cyclist being afraid of bikes"
 
-一个害怕命令行的开发者，就像是一个自行车的自行车手。
+一个害怕命令行的开发者，就像是一个害怕自行车的自行车手。
 
 "Throw away your bag of tricks. Be truly clever: Write boring code"
 
