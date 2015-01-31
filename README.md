@@ -5,6 +5,12 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+##2015/01/31
+"Adding manpower to a late software project makes it later.” —— Brook’s Law
+
+往一个已经延误的软件项目里面增加人力，只会让它更加延误。
+
+(整本《人月神话》，一半都是用来讲这个道理）
 
 ##2015/01/30
 "The sooner you start coding, the longer it's going to take."
