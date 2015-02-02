@@ -5,6 +5,11 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/02
+"Ship early, ship often, sacrificing features, never quality" - Kyle Neath
+
+尽早发布，尽快发布，可以牺牲掉功能，但是绝不要牺牲质量。 
+
 ##2015/01/31
 "Adding manpower to a late software project makes it later.” —— Brook’s Law
 
