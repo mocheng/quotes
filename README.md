@@ -5,6 +5,11 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/03
+First ask yourself `How would I do this without a computer?' Then have the computer do it the same way. ——@klortho
+
+（开始设计产品的之前）先问你自己：“没有电脑我怎么人肉干这件事？”然后，再让电脑用同样方法做这件事。
+
 #2015/02/02
 "Ship early, ship often, sacrificing features, never quality" - Kyle Neath
 
