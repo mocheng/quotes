@@ -5,6 +5,11 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/05
+"Everyone can be taught to sculpt: Michelangelo would have had to be taught how not to. So it is with the great programmers" - Alan Perlis
+
+每个人都可以学怎么雕刻东西，但是要达到米开朗基罗的水平，就要学会如何不去雕刻一些东西，对超级程序员也是一样的道理。
+
 
 #2015/02/04
 It takes an education to achieve true stupidity.
