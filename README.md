@@ -5,6 +5,14 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+
+#2015/02/04
+It takes an education to achieve true stupidity.
+
+真傻逼是被教育出来的。
+
+(若遵循人的天性和直觉，可能没那么多傻事，倒是不正确的教育，误导了很多人的头脑，制造了真傻逼)
+
 #2015/02/03
 First ask yourself `How would I do this without a computer?' Then have the computer do it the same way. ——@klortho
 
