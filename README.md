@@ -5,6 +5,15 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+
+#2015/02/06
+"If you don't like unit testing your product, most likely your customers won't like to test it either."
+
+你要是都不喜欢单元测试你的产品，几乎可以肯定，你的客户也没法喜欢考验你的产品。
+
+(这里第一个test可以翻译成“测试”，但第二个似乎更合适翻译成“考验”)
+
+
 #2015/02/05
 "Everyone can be taught to sculpt: Michelangelo would have had to be taught how not to. So it is with the great programmers" - Alan Perlis
 
