@@ -9,9 +9,9 @@ software engineering quotes
 #2015/02/06
 "If you don't like unit testing your product, most likely your customers won't like to test it either."
 
-要是连你都不喜欢单元测试自己的产品，几乎可以肯定，你的客户也没法喜欢考验你的产品。
+要是连你都不喜欢单元测试自己的产品，几乎可以肯定，你的客户也没法喜欢尝试你的产品。
 
-(这里第一个test可以翻译成“测试”，但第二个似乎更合适翻译成“考验”)
+(这里第一个test可以翻译成“测试”，但第二个似乎更合适翻译成“考验”或者“尝试”)
 
 
 #2015/02/05
