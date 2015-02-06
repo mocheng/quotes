@@ -9,7 +9,7 @@ software engineering quotes
 #2015/02/06
 "If you don't like unit testing your product, most likely your customers won't like to test it either."
 
-你要是都不喜欢单元测试你的产品，几乎可以肯定，你的客户也没法喜欢考验你的产品。
+要是连你都不喜欢单元测试自己的产品，几乎可以肯定，你的客户也没法喜欢考验你的产品。
 
 (这里第一个test可以翻译成“测试”，但第二个似乎更合适翻译成“考验”)
 
@@ -286,7 +286,6 @@ Debug的时候，菜鸟程序员会添加新代码矫正当前的错误，专业
 "I'm hoping our software strategies are boring to you, because they're not changing every year, ... That is our strategy" ——Steve Jobs
 
 我希望我们的软件策略对你们而言很枯燥，因为我们每年也没改变这个策略...这就是我们的策略。
-
 
 
 
