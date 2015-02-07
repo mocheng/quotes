@@ -6,6 +6,15 @@ software engineering quotes
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
 
+#2015/02/07
+Quality means doing it right when no one is looking. - Henry Ford
+
+没人盯着你，你依然能够把事情做好，这才叫有质量。——亨利.福特（福特汽车公司的创始人）
+
+（换言之，测试不能保证软件质量，很多软件发布了，看起来没问题，其实内部一坨屎）
+
+
+
 #2015/02/06
 "If you don't like unit testing your product, most likely your customers won't like to test it either."
 
