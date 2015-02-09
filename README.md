@@ -9,7 +9,7 @@ software engineering quotes
 #2015/02/08
 "I think most programmers spend the 1st 5 yrs of their career mastering complexity, and the rest of their lives learning simplicity" ——Buzz Anderson
 
-“(我认为)大部分程序员在职业生涯的前五年学会把事情搞复杂，然后在之后的日子里才学会追求简单。”
+“(我认为)大部分程序员在职业生涯的前五年学会的是把事情搞复杂，然后在之后的日子里才学会追求简单。”
 
 
 #2015/02/07
