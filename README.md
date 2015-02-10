@@ -5,8 +5,14 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/10
 
-#2015/02/08
+"The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility, and avoids clever tricks like the plague.” —— Edsger W. Dijkstra
+
+优秀的程序员很清楚自己脑力的局限，所以他们以谦恭的态度做事，像躲避瘟疫一样避免耍小聪明的技巧。
+
+
+#2015/02/09
 "I think most programmers spend the 1st 5 yrs of their career mastering complexity, and the rest of their lives learning simplicity" ——Buzz Anderson
 
 “(我认为)大部分程序员在职业生涯的前五年学会的是把事情搞复杂，然后在之后的日子里才学会追求简单。”
