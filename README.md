@@ -15,7 +15,7 @@ software engineering quotes
 
 "The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility, and avoids clever tricks like the plague.” —— Edsger W. Dijkstra
 
-优秀的程序员很清楚自己脑力的局限，所以他们以谦恭的态度做事，像躲避瘟疫一样避免耍小聪明的技巧。
+优秀的程序员很清楚自己脑力的局限，所以他们以谦恭的态度做事，像躲避瘟疫一样躲避耍小聪明的技巧。
 
 
 #2015/02/09
