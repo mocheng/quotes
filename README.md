@@ -5,6 +5,12 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/11
+"Software is Too Important to be Left to Programmers"
+
+软件这么重要的东西，岂能全靠程序员。
+
+
 #2015/02/10
 
 "The competent programmer is fully aware of the limited size of his own skull. He therefore approaches his task with full humility, and avoids clever tricks like the plague.” —— Edsger W. Dijkstra
