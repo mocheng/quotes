@@ -5,6 +5,13 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/12
+"Beware of your "firefighters," they are probably your chief arsonists" - Milt Bryce
+
+小心你的“救火员”，他可能就是那个纵火犯。
+
+（这句话的深意，也许只有经历过才能体会。）
+
 #2015/02/11
 "Software is Too Important to be Left to Programmers"
 
