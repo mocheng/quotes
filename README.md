@@ -9,7 +9,7 @@ software engineering quotes
 
 Superstition has no place in programming
 
-程序的世界里不需要迷信。
+程序的世界里不应该有迷信。
 
 #2015/02/12
 "Beware of your "firefighters," they are probably your chief arsonists" - Milt Bryce
