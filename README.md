@@ -5,6 +5,12 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/15
+
+Don't believe anything is actually working until there are tests. —— Nicholas C. Zakas
+
+在测试通过之前，不要轻信一样东西已经好使了。
+
 #2015/02/13
 
 Superstition has no place in programming
