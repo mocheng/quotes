@@ -5,6 +5,14 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/17
+
+"A program which perfectly meets a lousy specification is a lousy program" - Cem Kaner
+
+完美地实现了一个傻逼需求的程序，依然是一个傻逼程序。
+
+(合格的程序员不应该只考虑how，当发现做一件事的why就不对的时候，要勇敢站出来说no)
+
 #2015/02/16
 
 "Goddamnit, Morpheus. Not everyone believes what you believe!"
