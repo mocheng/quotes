@@ -5,6 +5,19 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/16
+
+"Goddamnit, Morpheus. Not everyone believes what you believe!"
+
+"My beliefs do not require them to."
+
+(这段对白来自《黑客帝国2：重装上阵》)
+
+
+“TMD，墨菲斯，不是所有人都相信你所相信的！“
+
+“爱信不信，反正我是信了。”
+
 #2015/02/15
 
 Don't believe anything is actually working until there are tests. —— Nicholas C. Zakas
