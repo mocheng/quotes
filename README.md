@@ -5,6 +5,15 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/02/18
+
+"I wish developing great products was as easy as writing a check. If that was the case, Microsoft would have great products.” —— Steve Jobs
+
+"我也希望开发产品和签支票一样简单，但是如果真的是这样的话，微软也TMD可以搞出伟大产品了。" —— 乔布斯
+
+(别以为砸钱就能搞出好产品，一切都要需要艰巨的劳动和精密的计划)
+
+
 #2015/02/17
 
 "A program which perfectly meets a lousy specification is a lousy program" - Cem Kaner
