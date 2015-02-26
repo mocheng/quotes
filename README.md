@@ -5,7 +5,14 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
-#2015/02/18
+
+#2015/02/26
+"Software development takes twice as long as anticipated, even when you take into account Hoffstetler's law. " - Hoffstetler - Hoffstetler's law of software development.
+
+软件开发会花费你预估两倍的时间，即使你参考这条规则来预估也是一样。—— Hoffstetler法则
+
+
+#2015/02/25
 
 "I wish developing great products was as easy as writing a check. If that was the case, Microsoft would have great products.” —— Steve Jobs
 
