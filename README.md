@@ -16,7 +16,7 @@ The central enemy of reliability is complexity. — Geer et al.
 
 One of my most productive days was throwing away 1000 lines of code.——Ken Thompson
 
-“在我最有工作产出的一天，我删掉了一千张代码。”
+“在我最有工作产出的一天，我删掉了一千行代码。”
 
 #2015/02/26
 "Software development takes twice as long as anticipated, even when you take into account Hoffstetler's law. " - Hoffstetler - Hoffstetler's law of software development.
