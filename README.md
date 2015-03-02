@@ -6,6 +6,12 @@ software engineering quotes
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
 
+#2015/03/02
+"Don't just fix the mistakes - fix whatever permitted the mistake in the first place" - One of NASA rules for better software
+
+“不要只是修正错误，而是要修正导致这种错误发生的原因。”——美国航空航天局
+
+
 #2015/02/28
 
 The central enemy of reliability is complexity. — Geer et al.
