@@ -5,6 +5,12 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/03
+"There are problems that should not be solved. There are programs that should not be written" - Richard Harter
+
+有的问题不是必须要解决，有的程序不是必须要去写。
+
+(同理，有的人不值得去爱，有的人不值得去培养，有的事业不值得去奋斗......)
 
 #2015/03/02
 "Don't just fix the mistakes - fix whatever permitted the mistake in the first place" - One of NASA rules for better software
