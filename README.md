@@ -5,6 +5,14 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/04
+
+"I have never been forced to accept compromises, but I have willingly accepted constraints." —Charles Eames
+
+“我绝不接受妥协，但是我愿意接受局限。”
+
+(两个人对一个设计有不同意见，A说这个按钮要高端大气上档次，B说这个按钮要低调奢华有内涵，如果做一个一半高端一半低调的按钮，这就叫妥协；既然有争议意见，而且难说哪个正确，那先不做这个按钮，这叫做局限)
+
 #2015/03/03
 "There are problems that should not be solved. There are programs that should not be written" - Richard Harter
 
