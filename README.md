@@ -5,6 +5,11 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/05
+"When in doubt, use brute force" - Butler Lampson
+
+“拿不定主意的时候，用简单粗暴的土鳖方法。”
+
 #2015/03/04
 
 "I have never been forced to accept compromises, but I have willingly accepted constraints." —Charles Eames
