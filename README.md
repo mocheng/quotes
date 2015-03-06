@@ -5,6 +5,13 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/06
+
+"The temptation to add features to a program must be resisted as strongly as possible. This requires the dedication of a saint" - @joeerl
+
+“必须要压抑住往程序里增加功能的诱惑，必须要把这一点当做圣人之言一样来遵守。”
+
+
 #2015/03/05
 "When in doubt, use brute force" - Butler Lampson
 
