@@ -5,6 +5,12 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/07
+
+“人的bug，是最严重的bug”—— @morgancheng 我说的
+
+（团队中出现人的问题，就一定要及时fix，有问题的人不光会拖后腿，更严重的是干扰队友的判断力，把团队拖到错误的方向，后患无穷）
+
 #2015/03/06
 
 "The temptation to add features to a program must be resisted as strongly as possible. This requires the dedication of a saint" - @joeerl
