@@ -5,6 +5,10 @@ software engineering quotes
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+Since 2014-12-15, I published one sentence about software engineering everyday. Some of them are translated quotes, others are my own words which express myself.
+
+从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
+
 #2015/03/07
 
 “人的bug，是最严重的bug”—— @morgancheng 我说的
