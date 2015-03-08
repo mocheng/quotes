@@ -19,6 +19,8 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 “必须要压抑住往程序里增加功能的诱惑，必须要把这一点当做圣人之言一样来遵守。”
 
+（这句话无论直译还是意译都很难，谁能有更好的翻译方法吗？）
+
 
 #2015/03/05
 "When in doubt, use brute force" - Butler Lampson
