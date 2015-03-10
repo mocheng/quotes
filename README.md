@@ -3,6 +3,8 @@ software engineering quotes
 
 软件工程相关的语录
 
+Since 2014-12-15, I published one sentence about software engineering every workday. Some of them are translated quotes, others are my own words which express myself.
+
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
 
@@ -21,6 +23,8 @@ software engineering quotes
 "The temptation to add features to a program must be resisted as strongly as possible. This requires the dedication of a saint" - @joeerl
 
 “必须要压抑住往程序里增加功能的诱惑，必须要把这一点当做圣人之言一样来遵守。”
+
+（这句话无论直译还是意译都很难，谁能有更好的翻译方法吗？）
 
 
 #2015/03/05
