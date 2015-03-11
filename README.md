@@ -7,6 +7,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+
+#2015/03/11
+
+"Only two things are infinite, the universe and human stupidity, and I'm not sure about the former" - Albert Einstein
+
+"只有两样东西是无限的，宇宙和人类的傻逼程度，而且，我还不确定前者是不是无限的，但我确定后者肯定是。"——爱因斯坦
+
+（永远不要低估活人的傻逼程度，所以不要指望别人很聪明，不管做什么，做好准备使用的人或者接受的人是一个傻逼吧。）
+
 #2015/03/10
 
 "Where there are two bugs, there is likely to be a third" - P. J. Plauger
