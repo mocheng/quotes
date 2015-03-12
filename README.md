@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/12
+"Smart data structures and dumb code works a lot better than the other way around" - Eric Raymond
+
+"巧妙的数据结构，加上傻愣的代码，要比一切其他方式都要好很多。"
+
+（能说出这话的真不是一般人，数据结构要巧妙，代码要简单傻愣，如果你走了相反的道路，数据结构很傻楞，代码充满花里胡哨的技巧，bug肯定很多。）
+
 
 #2015/03/11
 
