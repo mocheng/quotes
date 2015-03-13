@@ -8,6 +8,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
 #2015/03/12
+
+"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live" - Martin Golding
+
+“当你写代码的时候，永远想着，有朝一日是一个有暴力倾向的变态来维护你写的代码，而且这厮还知道你住在哪。”
+
+
+#2015/03/12
 "Smart data structures and dumb code works a lot better than the other way around" - Eric Raymond
 
 "巧妙的数据结构，加上傻愣的代码，要比一切其他方式都要好很多。"
