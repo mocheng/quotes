@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/16
+
+"If you can‘t explain it simply, you don‘t understand it well enough" ——  Albert Einstein
+
+“如果你不能把一件事请用简单方式解释清楚，说明你还还没懂呢。”
+
+（把事情复杂化、神秘化的人，都是没有真正懂的人）
+
 #2015/03/14
 
 "Good programming is good writing" - John Shore
