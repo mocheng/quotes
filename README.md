@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "If you can‘t explain it simply, you don‘t understand it well enough" ——  Albert Einstein
 
-“如果你不能把一件事请用简单方式解释清楚，说明你还还没懂呢。”
+“如果你不能把一件事请用简单方式解释清楚，说明你还没真懂这事。”
 
 （把事情复杂化、神秘化的人，都是没有真正懂的人）
 
