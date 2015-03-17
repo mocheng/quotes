@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/17
+"My skill is simplifying other people's lives, my passion is simplifying my own. " —— @scrumdan
+
+"我的技能就是简化他人的生活，我的激情就是简化我自己的生活。"
+
+(简单，简单，多少人穷其一生也不明白这个道理)
+
 #2015/03/16
 
 "If you can‘t explain it simply, you don‘t understand it well enough" ——  Albert Einstein
