@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/18
+
+“编程就像打高尔夫（或者台球），把球打进洞里并不算了不起，花了几杆把球打进洞里才体现水平。”
+
+（写出正确程序并不算牛逼，一票就能写对才叫牛逼，如果写出来被测试发现一大堆bug，修修补补才写对，嘿嘿，这离编程大师还差得远呢）
+
+
 #2015/03/17
 "My skill is simplifying other people's lives, my passion is simplifying my own. " —— @scrumdan
 
