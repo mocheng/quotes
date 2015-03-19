@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/19
+
+"Inheritance is surely a good answer but who knows the questions?" - Michel Gauthier
+
+“毫无疑问，继承是一个好答案，但是谁能告诉我问题是啥？”
+
+（大部分情况下，你会发现不用继承这种方式一样能够搞得定，用上继承反而把问题搞复杂了，所以，要谨慎使用一些概念和方法）
+
 #2015/03/18
 
 “编程就像打高尔夫（或者台球），把球打进洞里并不算了不起，花了几杆把球打进洞里才体现水平。”
