@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/20
+
+"If we have data, let's look at data. If all we have are opinions, let's go with mine" -Jim Barksdale, former CEO of Netscape
+
+"如果我们有数据，那我们就看数据；如果我们没有数据只有不同观点，就别BB，按照我的方式来。"
+
+（很多时候，所谓采用什么样的设计决定，就是一个往东走或者往西走的事情，到底那条路能取到经谁也说不准，这时候别废话争吵，赶紧定个方向继续走就是了，快点获得数据反馈才是正经的。）
+
 #2015/03/19
 
 "Inheritance is surely a good answer but who knows the questions?" - Michel Gauthier
