@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "No one hates software more than software developers" - Jeff Atwood
 
-“没有谁比软件开发这更加仇恨软件。”
+“没有谁比软件开发者更加仇恨软件。”
 
 （仅博一笑）
 
