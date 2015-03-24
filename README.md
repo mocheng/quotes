@@ -7,6 +7,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+
+#2015/03/23
+
+"Sometimes the questions are complicated and the answers are simple." - Dr. Seuss
+
+“有时候，复杂的不问题，而不是答案。”
+
+
+
 #2015/03/21
 
 "No one hates software more than software developers" - Jeff Atwood
