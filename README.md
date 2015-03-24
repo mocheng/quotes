@@ -8,6 +8,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
 
+#2015/03/24
+
+"Code should run as fast as necessary, but no faster; something important is always traded away to increase speed" - R. Pattis
+
+"代码需要运行得足够快，但是不要比足够快更快，因为总有比提高运行速度更重要的东西值得你衡量。"
+
+（更重要的东西，比如代码的可读性，比如代码的可维护性，如果完全追求高性能，我们干脆用汇编语言写一切代码好了，用得着吗？当然用不着。）
+
+
 #2015/03/23
 
 "Sometimes the questions are complicated and the answers are simple." - Dr. Seuss
