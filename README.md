@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Please stop commenting code that's already obvious." ——@gar1t
 
-“被在给很清楚的代码加注释了。”
+“别再给很清楚的代码加注释了。”
 
 （注释只用来解释why，不用描述对应代码是干what的，代码本身就应该说明自己是干what的）
 
