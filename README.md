@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/26
+
+"The best way to get a project done faster is to start sooner." ——Jim Highsmith
+
+保证一个项目尽快结束的最好方式，就是尽早开始。
+
+（这和[2015/01/30的那句话](https://github.com/mocheng/quotes#20150130) 似乎有些冲突，但是，那一句说的是编码，这一句说的是项目，两者是有区别的）
+
 #2015/03/25
 
 "Please stop commenting code that's already obvious." ——@gar1t
