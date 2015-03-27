@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/27
+
+"Refactoring is not only about transforming code, it's equally about how it transforms the coder" - @venkat_s
+
+"重构代码，改变的不只是代码，更重要的是也改变了程序员自己。"
+
+（这句感觉很有禅理好牛逼的样子）
+
 #2015/03/26
 
 "The best way to get a project done faster is to start sooner." ——Jim Highsmith
