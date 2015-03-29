@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/03/28
+
+"Artificial Intelligence is no match for Natural Stupidity"
+
+"人工智能不是天然傻逼的对手。"
+
+(不用害怕人工智能，比智能也许人类不行，比傻逼，嘿嘿，机器不行）
+
 #2015/03/27
 
 "Refactoring is not only about transforming code, it's equally about how it transforms the coder" - @venkat_s
