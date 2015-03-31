@@ -14,6 +14,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "程序员太脱离实际了，才会以为自己能够一票把复杂软件做出来。"
 
+#2015/03/28
+
+"Artificial Intelligence is no match for Natural Stupidity"
+
+"人工智能不是天然傻逼的对手。"
+
+(不用害怕人工智能，比智能也许人类不行，比傻逼，嘿嘿，机器不行）
+>>>>>>> eb877bac75bf8e2b9087aecc978e8f3c0a1a2b61
+
 #2015/03/27
 
 "Refactoring is not only about transforming code, it's equally about how it transforms the coder" - @venkat_s
