@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+
+#2015/03/30
+
+"What kind of programmer is so divorced from reality that she thinks she'll get complex software right the first time?" - James Alan Gardner
+
+"程序员太脱离实际了，才会以为自己能够一票把复杂软件做出来。"
+
 #2015/03/27
 
 "Refactoring is not only about transforming code, it's equally about how it transforms the coder" - @venkat_s
