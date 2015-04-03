@@ -7,6 +7,21 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/04/03
+
+“The difference between a good and a poor architect is that the poor architect succumbs to every temptation and the good one resists it.”
+
+“好的架构师和烂的架构师的区别，就是烂的禁不住任何诱惑，而好的则总能抵挡诱惑。”
+
+(这里用了“架构师”而不是“程序员”，其实指的就是有资历的程序员;所说的“诱惑”，当然指的是各种花里胡哨的技术选择)
+
+#2015/04/02
+
+"Write readable code that works."
+
+写代码就两条铁律，第一要好使，第二要让别人看得懂
+
+
 #2015/04/01
 
 "If you don't have a good system, make sure you get good users."
