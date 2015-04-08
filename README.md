@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+
+#2015/04/08
+
+"Two things that drive us, software development addicts: enthusiasm and laziness."
+
+“两件事情驱动着我们这些软件开发狂人：热情和懒惰。”
+
+
 #2015/04/07
 Software is never "done" - only occasionally shipped, and then eventually abandoned
 
