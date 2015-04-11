@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/04/10
+
+ "The three most important aspects of debugging and Real Estate are the same: Location, Location, and Location" - R. Pattis
+ 
+ Debug和房地产有三个重要共同点：位置，位置，还是TMD位置！
+
 #2015/04/09
 
 "永远不要把自己和自己的队友逼到必须很聪明很小心的地步。"——Morgan Cheng
