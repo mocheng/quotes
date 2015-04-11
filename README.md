@@ -13,6 +13,8 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 (这句有点绕口）
 
+就我所知，没有任何一个问题，无论多复杂，如果以正确的方法看待，也不会变得更加复杂。
+
 #2015/04/10
 
  "The three most important aspects of debugging and Real Estate are the same: Location, Location, and Location" - R. Pattis
