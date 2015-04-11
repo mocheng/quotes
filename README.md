@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/04/11
+
+"I have yet to see any problem, however complicated, which, when looked at in the right way, did not become still more complicated. " 
+- Poul Anderson
+
+(这句有点绕口）
+
 #2015/04/10
 
  "The three most important aspects of debugging and Real Estate are the same: Location, Location, and Location" - R. Pattis
