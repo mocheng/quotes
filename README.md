@@ -9,8 +9,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 #2015/04/11
 
-"I have yet to see any problem, however complicated, which, when looked at in the right way, did not become still more complicated. " 
-- Poul Anderson
+"I have yet to see any problem, however complicated, which, when looked at in the right way, did not become still more complicated. " —— Poul Anderson
 
 (这句有点绕口）
 
