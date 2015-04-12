@@ -7,6 +7,21 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/04/17
+
+"Perhaps the worst software technology of all time was the use of physical lines of code [for metrics]. Continued use of this approach, in the author's opinion, should be considered professional malpractice. " —— Capers Jones - From Applied Software Measurement, chapter 3, page 239.
+
+“有史以来TMD最糟糕的绩效衡量方式就是按照源代码行来衡量，谁还继续用这种方式，就我的观点来看，就TMD是行业害虫。”
+
+#2015/04/16
+"The structure of a software system will reflect the communication structure of the team that built it" —— R. E. Fairley
+
+“软件系统的结构，能够反映出构建这个系统的团队的沟通方式。”
+
+（你不能同意得更多吧）
+
+Read more: http://www.softwarequotes.com/showquotes.aspx?id=557&name=R.%20Fairley#ixzz3X6fNJZ7h
+
 #2015/04/15
 "It is not easy to do something good, but it is extremely difficult to do something bad." —— Charles Eames
 
