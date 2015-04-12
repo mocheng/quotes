@@ -9,8 +9,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 #2014/04/18
 
-"There are thousands of ways to mess up or damage a software projects, and only a few ways to do them well. " 
-- Capers Jones - From Applied Software Measurement, second edition, page 210.
+"There are thousands of ways to mess up or damage a software projects, and only a few ways to do them well. " —— Capers Jones - From Applied Software Measurement, second edition, page 210.
 
 “搞垮一个软件项目的方式有千万条，搞好的方式就几个。”
 
