@@ -28,8 +28,6 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 （你不能同意得更多吧）
 
-Read more: http://www.softwarequotes.com/showquotes.aspx?id=557&name=R.%20Fairley#ixzz3X6fNJZ7h
-
 #2015/04/15
 "It is not easy to do something good, but it is extremely difficult to do something bad." —— Charles Eames
 
