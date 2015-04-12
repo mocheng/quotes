@@ -7,6 +7,11 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/04/15
+"It is not easy to do something good, but it is extremely difficult to do something bad." —— Charles Eames
+
+“做好的事情不容易，但是，也可以告诉你，做烂事更让你TMD难受。”
+
 #2015/04/14
 
 "Done is not only better than perfect, it's not even done, and that's good." ——Kent Beck
