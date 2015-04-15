@@ -31,7 +31,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 #2015/04/15
 "It is not easy to do something good, but it is extremely difficult to do something bad." —— Charles Eames
 
-“做好的事情不容易，但是，也可以告诉你，做烂事更让你TMD难受。”
+“做好事不容易，但是，也可以告诉你，做烂事更让你TMD难受。”
 
 #2015/04/14
 
