@@ -7,6 +7,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2104/04/24
+
+"Given enough eyeballs, all bugs are shallow." —— Eric Raymond
+
+“只要有足够的Code Review，所有的bug都无所遁形。”
+
+（这一点，我并不赞同，原话是为了说明开源软件会有更少的bug，但是，实际上开源软件出过不少要命bug，甚至是安全性bug）
+
+
 #2014/04/23
 
 "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter." —— Eric Raymond
