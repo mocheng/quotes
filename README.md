@@ -7,6 +7,11 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2014/04/22
+
+"全世界的Debug都是一样的一步骤：找到一个正常的情况，然后找到一个出错的情况，最后找到这两者的差异。"——Morgan Cheng 
+
+
 #2014/04/21
 
 "Object Motto: Ask not first what the system does: As what it does it to!" 
