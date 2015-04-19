@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2014/04/21
+
+"Object Motto: Ask not first what the system does: As what it does it to!" 
+- Bertrand Meyer, Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition) by Bertrand Meyer
+
+“对象格言：先别问这系统干的啥，先问这系统为什么服务。”
+
 #2014/04/20
 
 "As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications." 
