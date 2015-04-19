@@ -7,7 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
-#2104/04/24
+#2015/04/25
+"Any sufficiently advanced bug is indistinguishable from a feature." —— Bruce Brown
+
+“任何诡异难缠的bug，都是源自于某个功能要求。”
+
+
+
+#2015/04/24
 
 "Given enough eyeballs, all bugs are shallow." —— Eric Raymond
 
@@ -16,7 +23,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 （这一点，我并不赞同，原话是为了说明开源软件会有更少的bug，但是，实际上开源软件出过不少要命bug，甚至是安全性bug）
 
 
-#2014/04/23
+#2015/04/23
 
 "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter." —— Eric Raymond
 
@@ -24,19 +31,19 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 
 
-#2014/04/22
+#2015/04/22
 
 "全世界的Debug都是一样的一步骤：找到一个正常的情况，然后找到一个出错的情况，最后找到这两者的差异。"——Morgan Cheng 
 
 
-#2014/04/21
+#2015/04/21
 
 "Object Motto: Ask not first what the system does: As what it does it to!" 
 - Bertrand Meyer, Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition) by Bertrand Meyer
 
 “对象格言：先别问这系统干的啥，先问这系统为什么服务。”
 
-#2014/04/20
+#2015/04/20
 
 "As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications." 
 —— Dave Parnas
@@ -46,7 +53,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 （象牙塔的理论无法保证软件系统好使，因为总有显示的狗屎事情发生）
 
 
-#2014/04/18
+#2015/04/18
 
 "There are thousands of ways to mess up or damage a software projects, and only a few ways to do them well. " —— Capers Jones - From Applied Software Measurement, second edition, page 210.
 
