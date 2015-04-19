@@ -7,6 +7,16 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2014/04/20
+
+"As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications." 
+—— Dave Parnas
+
+“这是一条通则，软件系统不在实际应用中使用而且出了一堆问题，就绝对谈不上一个真正好使的系统。”
+
+（象牙塔的理论无法保证软件系统好使，因为总有显示的狗屎事情发生）
+
+
 #2014/04/18
 
 "There are thousands of ways to mess up or damage a software projects, and only a few ways to do them well. " —— Capers Jones - From Applied Software Measurement, second edition, page 210.
