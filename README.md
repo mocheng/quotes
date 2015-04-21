@@ -38,8 +38,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 #2015/04/21
 
-"Object Motto: Ask not first what the system does: As what it does it to!" 
-- Bertrand Meyer, Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition) by Bertrand Meyer
+"Object Motto: Ask not first what the system does: As what it does it to!" —— Bertrand Meyer, Object-Oriented Software Construction (Book/CD-ROM) (2nd Edition) by Bertrand Meyer
 
 “对象格言：先别问这系统干的啥，先问这系统为什么服务。”
 
