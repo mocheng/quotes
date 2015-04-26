@@ -7,6 +7,26 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/04/28
+"OO programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches" - Paul Graham
+
+"面向对象编程提供了一种可靠的方式，一种可靠的把代码写成一坨一坨的方式，让你把代码组织成一系列地补丁。"
+
+(听起来硅谷创业教父Paul Graham是在骂OOP）
+
+
+#2015/04/27
+"Focus is saying no to 1,000 good ideas" - Steve Jobs
+
+“专注就是对一千个好想法说不。”——史蒂夫.乔布斯
+
+
+#2015/04/26
+"There is a lot of talk, but at the end of the day, code is the real talk" - @IrisClasson
+
+“干这行要有很多表达，但是，最终代码才是真正的表达。”
+
+
 #2015/04/25
 "Any sufficiently advanced bug is indistinguishable from a feature." —— Bruce Brown
 
