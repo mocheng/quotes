@@ -16,7 +16,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 #2015/04/29
 "OO programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches" - Paul Graham
 
-"面向对象编程提供了一种可靠的方式，一种可靠的把代码写成一坨一坨的方式，让你把代码组织成一系列地补丁。"
+"面向对象编程提供了一种可靠的方式，一种可靠的把代码写成一坨一坨的方式，让你把代码组织成一系列的补丁。"
 
 (听起来硅谷创业教父Paul Graham是在骂OOP）
 
