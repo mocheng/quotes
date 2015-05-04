@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/04
+
+"If you can't do great big things, do great little things."
+
+“你要是做不了牛逼的大事，那就把小事做得牛逼一点。”
+
 #2015/04/30
 
 "It's not uncommon for designers to confuse a beautiful looking product with one that works beautifully" - Braden Kowitz
