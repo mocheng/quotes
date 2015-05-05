@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/05
+
+"The real measure of a great engineer is how quickly the engineer can simplify a complex problem and develop an easily understood and maintainable solution." —— Scalability Rules
+
+“看一个工程师牛不牛逼，就看他/她能不能快速简化一个复杂问题，搞出一个很容易理解很容易维护的解决方法。”
+
 #2015/05/04
 
 "If you can't do great big things, do great little things."
