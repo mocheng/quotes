@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/06
+
+"A common mistake, when trying to design something completely foolproof is to underestimate the ingenuity of complete fools" - Douglas Adams
+
+"想要设计一个完全防傻的系统时，最常见错误就是低估了纯傻X的傻X程度。”
+
 #2015/05/05
 
 "The real measure of a great engineer is how quickly the engineer can simplify a complex problem and develop an easily understood and maintainable solution." —— Scalability Rules
@@ -755,7 +761,6 @@ Debug的时候，菜鸟程序员会添加新代码矫正当前的错误，专业
 "I'm hoping our software strategies are boring to you, because they're not changing every year, ... That is our strategy" ——Steve Jobs
 
 我希望我们的软件策略对你们而言很枯燥，因为我们每年也没改变这个策略...这就是我们的策略。
-
 
 
 
