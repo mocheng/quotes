@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/07
+
+"Always look for, and eliminate, flaws in your interfaces" - Steve Maguire
+
+“要永不停歇地寻找并消灭你借口中的缺陷。”
+
 #2015/05/06
 
 "A common mistake, when trying to design something completely foolproof is to underestimate the ingenuity of complete fools" - Douglas Adams
