@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Always look for, and eliminate, flaws in your interfaces" - Steve Maguire
 
-“要永不停歇地寻找并消灭你借口中的缺陷。”
+“要永不停歇地寻找并消灭你接口中的缺陷。”
 
 #2015/05/06
 
