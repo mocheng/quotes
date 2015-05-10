@@ -7,6 +7,18 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/12
+
+
+“傻子都能把设计搞复杂，有本事的人才能把事情搞简单。” ——Morgan
+
+
+#2015/05/11
+
+"Design is choosing how you will fail" - Ron Fein
+
+“设计就是选择你如何处理失败的情况。”
+
 #2015/05/09
 “Every single design pattern makes your design more complicated.”——Anonymous
 
