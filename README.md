@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/14
+
+"Objects are data structures with functions. Closures are functions with data."
+
+"对象是有功能的数据结果，闭包是有数据的功能。“
+
 #2015/05/13
 
 "If it's your decision, it's design; if not, it's a requirement." -- Alastair Cockburn
