@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Objects are data structures with functions. Closures are functions with data."
 
-"对象是有功能的数据结果，闭包是有数据的功能。“
+“对象是有功能的数据结果，闭包是有数据的功能。”
 
 #2015/05/13
 
