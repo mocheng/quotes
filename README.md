@@ -9,6 +9,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 #2015/05/14
 
+"If you want to go somewhere, goto is the best way to get there" ——Anonymous
+
+“如果要调到什么地方，goto语句是最好的办法。”
+
+（这条不是对不对的问题，而是能不能的问题，现在绝大部分编程语言都已经没有goto语句了。）
+
+#2015/05/14
+
 "Objects are data structures with functions. Closures are functions with data."
 
 “对象是有功能的数据结果，闭包是有数据的功能。”
