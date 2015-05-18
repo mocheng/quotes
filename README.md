@@ -7,14 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
-#2015/05/15
+#2015/05/16
 “Pasting code from the internet into production code is like chewing gum found in the street.”
 – Mike Johnson
 
 “从网上找code贴到产品代码库里，就像从街上捡起口香糖继续嚼。”
 
 
-#2015/05/14
+#2015/05/15
 
 "If you want to go somewhere, goto is the best way to get there" ——Anonymous
 
