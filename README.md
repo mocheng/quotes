@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/18
+
+“Software development is fun, if there is no deadline and schedule.” - Morgan
+
+“软件开发是一件很有意思的事情，如果没有TMD期限和日程要求的话。”
+
 #2015/05/16
 “Pasting code from the internet into production code is like chewing gum found in the street.”
 – Mike Johnson
