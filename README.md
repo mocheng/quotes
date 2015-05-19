@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/19
+
+"The most disastrous thing that you can ever learn is your first programming language" - Alan Kay
+
+“你能学到的最毁灭性的东西，就是你的第一门编程语言。”
+
+（为啥呢？我学的第一门变成语言是Basic，还好，还好）
+
 #2015/05/18
 
 “Software development is fun, if there is no deadline and schedule.” - Morgan
