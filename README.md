@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/21
+"No one can tell you what the Matrix is. You have to experience it for yourself" - Morpheus，The Matrix
+
+“每人能告诉你黑客帝国是什么，你得要自己体会才能知道。”——孟菲斯
+
+（把“黑客帝国”换成任何名词动词都行）
+
 #2015/05/20
 
 “代码的可读性直接决定代码的正确性。”--Morgan
