@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/22
+
+"good is the enemy of great, but great is the enemy of shipped" - Jeffrey Zeldman
+
+“优秀是卓越的大敌，不过，卓越也是发布的大敌。”
+
 #2015/05/21
 "No one can tell you what the Matrix is. You have to experience it for yourself" - Morpheus，The Matrix
 
