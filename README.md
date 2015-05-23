@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/23
+
+"If you're good at the debugger it means you spent a lot of time debugging. I don't want you to be good at the debugger" - Robert C. Martin
+
+“如果你擅长调试器，那意味着你花了很多时间调试，可是我不想你擅长TMD所谓调试器。”
+
+（使用调试工具是下下策，单元测试和良好的代码风格应该足够应付代码中的问题，如果你需要用debugger，你已经输了。）
+
 #2015/05/22
 
 "good is the enemy of great, but great is the enemy of shipped" - Jeffrey Zeldman
