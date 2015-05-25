@@ -11,6 +11,10 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "There are only two industries that refer to their customers as 'users'" - Edward Tufte
 
+“只有两个行当把客户称为用户。”
+
+（据说有一个行当是贩毒，另一个行当是...)
+
 #2015/05/23
 
 "If you're good at the debugger it means you spent a lot of time debugging. I don't want you to be good at the debugger" - Robert C. Martin
