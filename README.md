@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/27
+"Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail" - Max Kanat-Alexander
+
+“有些最棒的程序其实是在纸上搞定的，把代码录入计算机只是很小的一步。”
+
+（无论你用什么IDE，也无论用什么键盘，其实都只能辅助你的开发效率，并不能保证你写出最棒的程序，写出最棒的程序永远是要靠大脑）
+
 #2015/05/26
 
 "Good judgement comes from experience, and experience comes from bad judgement" - Frederick P. Brooks
