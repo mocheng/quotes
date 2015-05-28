@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/28
+
+"The hardest single part of building a software system is deciding precisely what to build" - Frederick P. Brooks
+
+“构建软件系统中最难的事情，是决定构建什么东西呢。”
+
 #2015/05/27
 "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail" - Max Kanat-Alexander
 
