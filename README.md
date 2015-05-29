@@ -13,7 +13,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 “人们终究会认识到，软件不是产品，人们使用软件来构建一个产品。”
 
-（Linux创世人有人这样的见解，可见他不只是一个程序员）
+（Linux作者能有这样的见解，可见他不只是一个程序员）
 
 #2015/05/28
 
