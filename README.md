@@ -7,6 +7,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/05/30
+
+"Yes, features do sell products, but only if they actually work!" - Steven R. Rakitin
+
+“是，功能能让产品卖得动，但只有功能好使才能卖得动。”
+
+(要明白功能数不说明什么，功能好使才是主要的。)
+
+
 #2015/05/29
 
 "People will realize that software is not a product; you use it to build a product" - Linus Torvalds
