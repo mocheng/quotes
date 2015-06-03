@@ -7,6 +7,11 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/02
+"First, solve the problem. Then, write the code" - John Johnson
+
+“先解决问题，然后再写TMD代码。”
+
 #2015/06/01
 "Creating something out of thin air is easy. It's finding the air that's hard" - Asher Trotter
 
