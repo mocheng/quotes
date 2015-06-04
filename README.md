@@ -7,6 +7,11 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/03
+"It may be hard to scale a poorly designed but successful software system, but that's still a better place to be than its inverse."——Martin Fowler
+
+“扩容一个设计很烂但是还算成功的软件系统很难，但也好过一个设计很好但是并不成功的系统。”
+
 #2015/06/02
 "First, solve the problem. Then, write the code" - John Johnson
 
