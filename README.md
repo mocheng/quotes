@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+
+#2015/06/04
+
+"Better to be a geek than an idiot"
+
+“做2B好过SB好。”
+
 #2015/06/03
 "It may be hard to scale a poorly designed but successful software system, but that's still a better place to be than its inverse."——Martin Fowler
 
