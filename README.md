@@ -12,7 +12,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Better to be a geek than an idiot"
 
-“做2B好过SB好。”
+“做2B好过SB。”
 
 #2015/06/03
 "It may be hard to scale a poorly designed but successful software system, but that's still a better place to be than its inverse."——Martin Fowler
