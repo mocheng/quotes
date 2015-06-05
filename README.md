@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Design is not ornamentation. It's not all subjective. It's not a matter of pers pref. Some design choices are objectively better" @spolsky
 
-“设计不是壮士，设计不是主观判断，设计和个人喜好倾向无关，有的设计客户观上就是要比别的好。”
+“设计不是装饰，设计不是主观判断，设计和个人喜好倾向无关，有的设计客户观上就是要比别的好。”
 
 （现实正好是相反的，能够按照上面实践的人太少了）
 
