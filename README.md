@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/06
+
+"Anyone can build a fast CPU. The trick is to build a fast system. " - Seymour Cray 
+
+“谁都可以造一个快速的CPU，但是问题是造一个快速的系统就难了。”
+
+
+
 #2015/06/05
 
 "Design is not ornamentation. It's not all subjective. It's not a matter of pers pref. Some design choices are objectively better" @spolsky
