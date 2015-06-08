@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/08
+
+"If you're the smartest person in the room, you're probably in the wrong room!" - @singularityu
+
+“如果你觉得你是屋子里最聪明的人，可能你走错了屋。”
+
+
 #2015/06/06
 
 "Anyone can build a fast CPU. The trick is to build a fast system. " - Seymour Cray 
