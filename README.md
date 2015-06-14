@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/16
+
+"A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them" - John C. Maxwell
+
+“一个爷们应该心足够大到承认自己的错误，聪明到足够防止错误继续发生，还要强到能够纠正这些错误。 ”
+
 #2015/06/15
 
 "Adhere to the style of the original" - Al Vermeulen
