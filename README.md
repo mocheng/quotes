@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/19
+
+"..the problem [with software projects] isn't change, per se, because change is going to happen; the problem, rather, is the inability to cope with change when it comes."  —— Kent Beck - in "Extreme Programming Explained"
+
+“软件项目的问题不是改变，因为改变总是会发生的，问题是没有能力去控制改变。”
+
+
 #2015/06/18
 
 "The software isn't finished until the last user is dead." —— Anonymous
