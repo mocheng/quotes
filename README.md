@@ -7,6 +7,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/17
+
+"There are two ways to write error-free programs; only the third one works." —— Anonymous
+
+"有两种方法写无bug的程序，但是只有第三种才好使。"
+
+(言下之意，没有bug-free程序存在）
+
+
 #2015/06/16
 
 "A man must be big enough to admit his mistakes, smart enough to profit from them, and strong enough to correct them" - John C. Maxwell
