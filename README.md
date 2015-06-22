@@ -7,9 +7,16 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/26
+
+"If you can't test it, don't build it. If you don't test it, rip it out. " —— Boris Beizer
+
+“你要是不能测试它，那你就别创建它；如果你不测试它，你创建它个屁呀？”
+
+
 #2015/06/25
 
-"Bugs lurk in corners and congregate at boundaries." —— BORIS BEIZER
+"Bugs lurk in corners and congregate at boundaries." —— Boris Beizer
 
 “Bug就埋伏在不常遇到的corner case里，而且聚集在边缘情况附近。”
 
