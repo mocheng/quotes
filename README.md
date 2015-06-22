@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/27
+
+"The amateur software engineer is always in search of magic." —— Grady Booch
+
+“业余软件工程师总是在寻找封建迷信的解法。”
+
 #2015/06/26
 
 "If you can't test it, don't build it. If you don't test it, rip it out. " —— Boris Beizer
