@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/06/29
+
+"640K ought to be enough for anybody" - Bill Gates, 1981
+
+"640K 应该对谁都足够了。"
+
+(嗯，640K元应该对谁都足够了）
+
 #2015/06/27
 
 "The amateur software engineer is always in search of magic." —— Grady Booch
