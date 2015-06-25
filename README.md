@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/02
+
+"Don't write code that guesses the future, arrange code so you can adapt to the future when it arrives" - @sandimetz
+
+“别以猜想未来的方式来写代码，而是以能适应未来改变的态度来组织代码。”
+
+（这话不大好理解，我理解的意思就是：别猜测未来会有什么什么功能所以把代码搞得很复杂，但是要让代码足够灵活来适应未来新的需求）
+
 #2015/07/01
 "Complexity is a sign of technical immaturity. Simplicity of use is the real sign of a well design product" —— Daniel T. Ling
 
