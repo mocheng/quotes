@@ -7,6 +7,11 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/01
+"Complexity is a sign of technical immaturity. Simplicity of use is the real sign of a well design product" —— Daniel T. Ling
+
+“复杂是技术不成熟的标志，使用简单才是良好设计产品的标志。”
+
 #2015/06/30
 
 "...if you're afraid to change something it is clearly poorly designed" - Martin Fowler
