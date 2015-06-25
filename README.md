@@ -52,7 +52,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Bugs lurk in corners and congregate at boundaries." —— Boris Beizer
 
-“Bug就埋伏在不常遇到的corner case里，而且聚集在边缘情况附近。”
+“Bug就埋伏在不常见路径附近，Bug就聚集在边缘情景里。”
 
 #2015/06/24
 "Test input for validity and plausibility." —— P. J. Plauger
