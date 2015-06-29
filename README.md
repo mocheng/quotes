@@ -39,7 +39,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "640K 应该对谁都足够了。"
 
-(嗯，640K元应该对谁都足够了）
+(640K元对谁都不够，640K内存还能足够？）
 
 #2015/06/27
 
