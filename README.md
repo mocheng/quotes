@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/04
+"Operating systems are like underwear — nobody really wants to look at them." - Bill Joy
+
+"操作系统就像内衣，每人真想看它。"
+
+
+
 #2015/07/03
 
 “在足球场上，球没有传好，是传球人的责任，不是接球人的责任，这很明显啊，你听说过优秀的传球手，什么时候听说过优秀的接球手？因为把球传好是传球人的责任啊！同样的，在一个公司，一个团队里面，如果交流不畅，不是听的那个人的责任，是说的那个人的责任，如果你没法理会别人的意思，不要不好意思，直接告诉对方：我没听懂你说什么，你能不能再说一遍让我明白。 ” ——Morgan Cheng
