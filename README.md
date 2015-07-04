@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/12
+
+"Only three priorities apply as to when to fix a bug: now, later, never."- @KevlinHenney
+
+“Fix Bug只有三种优先级：现在fix、回头Fix、永远不Fix。”
+
 #2015/07/11
 
 “一切复杂设计都是因为无能。”——Morgan Cheng
