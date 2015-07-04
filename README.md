@@ -7,14 +7,21 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
-#2015/07/05
+#2015/07/07
+
+"Good programmers know what's beautiful and bad ones don't" - D. Gelernter
+
+“优秀的程序员知道什么叫做美，傻逼程序员就不知道。 ”
+
+
+#2015/07/06
 "The code that is the hardest to debug is the code that you know cannot possibly be wrong"——Anonymous
 
 “最难debug的代码，就是你不相信有错误的代码。”
 
 （换句话说，你要是相信你的代码中有错误，抱着这种心态去debug，就没有难处理的问题）
 
-#2015/07/04
+#2015/07/05
 "Operating systems are like underwear — nobody really wants to look at them." - Bill Joy
 
 "操作系统就像内衣，没人真想看它。"
