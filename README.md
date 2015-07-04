@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/09
+
+"Innovation is like climbing a mountain. Most teams fail because they pick the wrong mountain to climb" - Sebastian Thrun
+
+"创新就像爬山，大多数团队失败是因为他们爬错了山。”
+
 #2015/07/08
 
 "A person is a success if they get up in the morning and gets to bed at night and in between does what he wants to do" - Bob Dylan
