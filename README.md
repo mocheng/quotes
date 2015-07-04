@@ -10,7 +10,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 #2015/07/04
 "Operating systems are like underwear — nobody really wants to look at them." - Bill Joy
 
-"操作系统就像内衣，每人真想看它。"
+"操作系统就像内衣，没人真想看它。"
 
 
 
