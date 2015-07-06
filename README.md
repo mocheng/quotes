@@ -15,7 +15,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 #2015/07/13
 
-“一切复杂设计都是因为无能。”——Morgan Cheng
+“一切过度复杂设计都是因为无能。”——Morgan Cheng
 
 
 #2015/07/11
