@@ -7,30 +7,30 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
-#2015/07/12
+#2015/07/14
 
 "Only three priorities apply as to when to fix a bug: now, later, never."- @KevlinHenney
 
 “Fix Bug只有三种优先级：现在fix、回头Fix、永远不Fix。”
 
-#2015/07/11
+#2015/07/13
 
 “一切复杂设计都是因为无能。”——Morgan Cheng
 
 
-#2015/07/10
+#2015/07/11
 
 "Documentation is like sex; when it's good, it's very, very good, and when it's not, it's better than nothing" - Dick Brandon
 
 "文档就像性生活，如果好的，那叫一个真好；但是要是不好，那TMD还不如没有。”
 
-#2015/07/09
+#2015/07/10
 
 "Innovation is like climbing a mountain. Most teams fail because they pick the wrong mountain to climb" - Sebastian Thrun
 
 "创新就像爬山，大多数团队失败是因为他们爬错了山。”
 
-#2015/07/08
+#2015/07/09
 
 "A person is a success if they get up in the morning and gets to bed at night and in between does what he wants to do" - Bob Dylan
 
@@ -38,21 +38,21 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 （你觉得你是吗？）
 
-#2015/07/07
+#2015/07/08
 
 "Good programmers know what's beautiful and bad ones don't" - D. Gelernter
 
 “优秀的程序员知道什么叫做美，傻逼程序员就不知道。 ”
 
 
-#2015/07/06
+#2015/07/07
 "The code that is the hardest to debug is the code that you know cannot possibly be wrong"——Anonymous
 
 “最难debug的代码，就是你不相信有错误的代码。”
 
 （换句话说，你要是相信你的代码中有错误，抱着这种心态去debug，就没有难处理的问题）
 
-#2015/07/05
+#2015/07/06
 "Operating systems are like underwear — nobody really wants to look at them." - Bill Joy
 
 "操作系统就像内衣，没人真想看它。"
