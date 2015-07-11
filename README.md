@@ -24,6 +24,8 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "文档就像性生活，如果好的，那叫一个真好；但是要是不好，那TMD还不如没有。”
 
+（我故意翻译错了，因为我就是这么认为的）
+
 #2015/07/10
 
 "Innovation is like climbing a mountain. Most teams fail because they pick the wrong mountain to climb" - Sebastian Thrun
