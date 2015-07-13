@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/16
+
+"The first step in fixing a broken program is getting it to fail repeatably (on the simplest example possible)" - Tom Duff
+
+"搞定一个有问题的程序的第一步，是让他稳定持续出问题。”
+
+
 #2015/07/15
 
 "I can't choose whether someone is offended by my actions. I can choose whether I care" - Martin Fowler
@@ -30,7 +37,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 #2015/07/11
 
-“一切过度复杂设计都是因为无能。”——Morgan Cheng
+“一切过度复杂设计都是因为懦弱和无能。”——Morgan Cheng
+
+（友人给了英文翻译：
+
+All FUCKING over-complex design is due to TMD cowardice and inability)
+
+）
 
 
 #2015/07/10
