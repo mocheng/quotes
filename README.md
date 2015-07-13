@@ -15,10 +15,17 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 #2015/07/13
 
-“一切过度复杂设计都是因为无能。”——Morgan Cheng
+"Innovation is like climbing a mountain. Most teams fail because they pick the wrong mountain to climb" - Sebastian Thrun
+
+"创新就像爬山，大多数团队失败是因为他们爬错了山。”
 
 
 #2015/07/11
+
+“一切过度复杂设计都是因为无能。”——Morgan Cheng
+
+
+#2015/07/10
 
 "Documentation is like sex; when it's good, it's very, very good, and when it's not, it's better than nothing" - Dick Brandon
 
@@ -26,11 +33,6 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 （我故意翻译错了，因为我就是这么认为的）
 
-#2015/07/10
-
-"Innovation is like climbing a mountain. Most teams fail because they pick the wrong mountain to climb" - Sebastian Thrun
-
-"创新就像爬山，大多数团队失败是因为他们爬错了山。”
 
 #2015/07/09
 
