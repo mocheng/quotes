@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/15
+
+"I can't choose whether someone is offended by my actions. I can choose whether I care" - Martin Fowler
+
+“我不能决定别人不是被我的行为冒犯了，但是我可以决定屌不屌他。”
+
+（Martin大叔这句话不知道是那么语境下说的，颇有古龙之风）
+
 #2015/07/14
 
 "Only three priorities apply as to when to fix a bug: now, later, never."- @KevlinHenney
