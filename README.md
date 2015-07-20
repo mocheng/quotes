@@ -19,7 +19,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "The true definition of madness is repeating the same action, over and over, hoping for a different result" - Albert Einstein
 
-“重复同样的行为，却希望有不同的结果，这才是真的疯狂。”
+“重复同样的行为，却希望有不同的结果，这是真的疯了。”
 
 #2015/07/17
 
