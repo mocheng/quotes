@@ -7,6 +7,20 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/21
+
+"Simple is good. Boring is better" - Anonymous
+
+“简单就是好，枯燥就更好了。”
+
+（多少工程师就是不明白这一点）
+
+#2015/07/20
+
+"The true definition of madness is repeating the same action, over and over, hoping for a different result" - Albert Einstein
+
+“重复同样的行为，却希望有不同的结果，这才是真的疯狂。”
+
 #2015/07/17
 
 “TDD是个好东西，如果能够接受单元测试执行时间过长和可能的随机失败的话。 ” ——Morgan Cheng
