@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/24
+
+"If we lived in a perfect world, there would not be a need for managers; projects would be executed on time and within cost. However, the reality is, we live in an imperfect world." - Milt Bryce
+
+“如果我们生活在一个完美世界，那就不需要管理者，项目自然会按时在计划内完成，可是，现实情况是，我们生活在一个麻痹的不完美世界。”
+
+
+
 #2015/07/23
 
 "Good specifications will always improve programmer productivity far better than any programming tool or technique." - Milt Bryce
