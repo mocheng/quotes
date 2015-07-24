@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/23
+
+"One of my most productive days was throwing away 1000 lines of code." -- Ken Thompson
+
+“我最有工作效率的一天是删了一千行代码。”
+
+
 #2015/07/22
 "Programmers are constantly making things more complicated than they need to be BECAUSE FUTURE. Fuck the future. Program for today." - @dhh
 
