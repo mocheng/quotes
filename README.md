@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/24
+
+"Good specifications will always improve programmer productivity far better than any programming tool or technique." - Milt Bryce
+
+“优秀的规格文档，比任何其他编程工具和技术对生产力的提高贡献都大。”
+
+
+
 #2015/07/23
 
 "One of my most productive days was throwing away 1000 lines of code." -- Ken Thompson
