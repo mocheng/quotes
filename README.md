@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "If we lived in a perfect world, there would not be a need for managers; projects would be executed on time and within cost. However, the reality is, we live in an imperfect world." - Milt Bryce
 
-“如果我们生活在一个完美世界，那就不需要管理者，项目自然会按时在计划内完成，可是，现实情况是，我们生活在一个麻痹的不完美世界。”
+“如果我们生活在一个完美世界，那就不需要管理，项目自然会按时按计划完成，可是，现实情况是，我们生活在一个麻痹的不完美世界。”
 
 
 
