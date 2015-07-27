@@ -7,7 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
-#2015/07/25
+#2015/07/28
+
+"Design and programming are human activities; forget that and all is lost." - Bjarne Stroustrup
+
+“设计和编程是人类行为，忘记这一点就全完蛋。”
+
+#2015/07/27
 
 "Fix the cause, not the symptom" - Steve Maguire
 
