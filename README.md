@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/29
+
+"f u cn rd ths, u cn gt a gd jb n cmptr prgmmng." - Anonymous
+
+(无需翻译，自己看）
+
+
 #2015/07/28
 
 "Design and programming are human activities; forget that and all is lost." - Bjarne Stroustrup
@@ -1209,7 +1216,6 @@ Debug的时候，菜鸟程序员会添加新代码矫正当前的错误，专业
 "I'm hoping our software strategies are boring to you, because they're not changing every year, ... That is our strategy" ——Steve Jobs
 
 我希望我们的软件策略对你们而言很枯燥，因为我们每年也没改变这个策略...这就是我们的策略。
-
 
 
 
