@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/01
+
+"Real happiness comes from achieving your high-level goals. Not from solving interesting techincal riddles that your create for yourself."
+
+“真正的幸福感来自于实现高层次目标，而不是解决自己给自己制造的所有有趣问题。”
+
 #2015/07/31
 
 "If you have a problem, and you think the solution is using regular expressions, then you have two problems"
