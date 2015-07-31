@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/07/31
+
+"If you have a problem, and you think the solution is using regular expressions, then you have two problems"
+
+“如果你有一个问题，你觉得用正则表达式是一个解决方法，然后你就有两个问题了。”
+
 #2015/07/30
 
 "Weeks of programming can save you hours of planning." - Anonymous
