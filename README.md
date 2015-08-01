@@ -21,7 +21,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Real happiness comes from achieving your high-level goals. Not from solving interesting techincal riddles that your create for yourself." —— Dan McKinley
 
-“真正的幸福感来自于实现高层次目标，而不是解决自己给自己制造的所有有趣问题。”
+“真正的幸福感来自于实现高层次目标，而不是解决自己给自己制造的所谓有趣问题。”
 
 #2015/07/31
 
