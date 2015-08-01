@@ -7,13 +7,19 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/04
+
+"There is a tendency among programmers to think that if they are writing code, by definition they are not wasting their time. This is a tar pit. " —— Dan McKinley
+
+“程序员中有一种思潮，觉得只要自己在写代码，就不是浪费时间，这中观点真TMD是一个大坑。”
+
 #2015/08/03
 
 “软件开发，就是按下了葫芦起了瓢。”
 
 #2015/08/01
 
-"Real happiness comes from achieving your high-level goals. Not from solving interesting techincal riddles that your create for yourself."
+"Real happiness comes from achieving your high-level goals. Not from solving interesting techincal riddles that your create for yourself." —— Dan McKinley
 
 “真正的幸福感来自于实现高层次目标，而不是解决自己给自己制造的所有有趣问题。”
 
