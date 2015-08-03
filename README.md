@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/05
+
+"Everybody in the middle east should learn to fight about stuff that really matters, like emacs vs. vim." ——Jeff Atwood
+
+“中东的人真应该为有点意义的事情战斗，比如说用emacs还是用vim。”
+
+（这个笑话有点冷）
+
 #2015/08/04
 
 "There is a tendency among programmers to think that if they are writing code, by definition they are not wasting their time. This is a tar pit. " —— Dan McKinley
