@@ -21,7 +21,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "There is a tendency among programmers to think that if they are writing code, by definition they are not wasting their time. This is a tar pit. " —— Dan McKinley
 
-“程序员中有一种思潮，觉得只要自己在写代码，就不是浪费时间，这中观点真TMD是一个大坑。”
+“程序员中有一种思潮，觉得只要自己在写代码，就不是浪费时间，这种观点真TMD是一个大坑。”
 
 #2015/08/04
 
