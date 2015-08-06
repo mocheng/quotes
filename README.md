@@ -7,6 +7,11 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/07
+
+"The proper use of comments is to compensate for our failure to express ourself in code" - Robert C. Martin
+
+“使用注释的时候，只应该是我们没法用代码表达我们想法的时候。”
 
 
 #2015/08/06
