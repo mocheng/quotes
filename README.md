@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/10
+
+"I will postpone using this shiny new framework until my peers have validated the proposed benefits with rigorous scientific experiments." —— a qualified programmer
+
+“在我的同行用严格科学的试验证明这个牛逼哄哄技术真的有那么好之前，我是不会用这个玩意的。”
+
+
 #2015/08/09
 
 "If you can't deploy your services independently then they aren't microservices." —— Daniel Bryant
