@@ -7,6 +7,15 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/12
+
+"We did about 10,000 tests on it, and it was working fine until Monday." —— Anonymous
+
+“我们测试了一万次，这货工作得挺好，直到TMD星期一。”
+
+（这句话的意思就是，测试只能证明证明系统中bug的存在，却不能证明系统中bug的不存在，依赖于测试提高软件质量是幼稚的想法，虽然测试还是必须要做的事情）
+
+
 #2015/08/11
 
 "Basic rule of programming: if you stay up all night, you'll probably fix the bug, but you definitely won't be fixing any the next day"
