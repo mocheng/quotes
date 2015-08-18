@@ -8,17 +8,25 @@ Since 2014-12-15, I published one sentence about software engineering every work
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
 
-#2015/08/16
+#2015/08/19
+
+"Focus on WHY instead of WHAT in your code will make you a better developer" - @seldaek
+
+“写代码时专注于‘为什么’而不是‘是什么’，这样你就能成为一个更好的开发者。”
+
+#2015/08/18
+
+"Do what is right, not what is easy."
+
+“做对的事情，而不是做容易的事情。”
+
+
+#2015/08/17
 
 "The best engineers I know are artists at heart. The best designers I know are secretly technicians as well" - @Trenti
 
 “我所认识的最好的工程师内心其实是艺术家，我所认识的最好的额设计师内心是技术人员。”
 
-#2015/08/15
-
-"Focus on WHY instead of WHAT in your code will make you a better developer" - @seldaek
-
-“写代码时专注于‘为什么’而不是‘是什么’，这样你就能成为一个更好的开发者。”
 
 #2015/08/14
 
