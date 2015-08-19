@@ -7,6 +7,18 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/21
+
+"Software is expensive to write. It is the only thing in cyberspace that is getting more expensive, and less reliable" - Jim Gray, in 1999
+
+“写软件是烧钱的活，而且这是互联网事件里唯一烧钱越多，反而越不靠谱的玩意。”
+
+#2015/08/20
+
+If the programmers like each other, they play a game called "pair programming". And if not then the game is called "peer review" - @ashalynd
+
+"如果程序员彼此欣赏，他们就玩一个叫‘结对编程’的游戏；如果他们彼此不喜欢，他们就玩一个叫‘peer review’的游戏。”
+
 
 #2015/08/19
 
