@@ -7,6 +7,12 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/25
+
+"Some scale problems should go unsolved. No. Most scale problems should go unsolved." ——@liquidise
+
+“有的扩容性问题就不该去解决，不，应该说大部分扩容性问题都应该不去解决。”
+
 #2015/08/24
 
 “都说人总得敬畏点啥，敬畏神灵啥的，干我们这行，神就是复杂度(complexity)，不怕这个，你就死得很惨。”——Morgan Cheng
