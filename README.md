@@ -13,6 +13,8 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 “有的扩容性问题就不该去解决，不，应该说大部分扩容性问题都应该不去解决。”
 
+（要我说，把scale去掉，这句话一样是成立的）
+
 #2015/08/24
 
 “都说人总得敬畏点啥，敬畏神灵啥的，干我们这行，神就是复杂度(complexity)，不怕这个，你就死得很惨。”——Morgan Cheng
