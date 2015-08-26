@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/26
+
+"You're bound to be unhappy if you optimize everything." - Donald E. Knuth
+
+“如果你什么都想做到最优化，那你注定孤苦到老。”
+
+
 #2015/08/25
 
 "Some scale problems should go unsolved. No. Most scale problems should go unsolved." ——@liquidise
