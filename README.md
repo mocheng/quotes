@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "You're bound to be unhappy if you optimize everything." - Donald E. Knuth
 
-“如果你什么都想做到最优化，那你注定孤苦到老。”
+“如果你什么都想做到最优化，那你注定孤苦到老。”——高德纳
 
 
 #2015/08/25
