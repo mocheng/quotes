@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Don't make the user provide information that the system already knows. " - Rick Lemons
 
-“不要让用户提供系统已经直到的信息。”
+“不要让用户提供系统已经知道的信息。”
 
 
 
