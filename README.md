@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/08/28
+
+"Don't make the user provide information that the system already knows. " - Rick Lemons
+
+“不要让用户提供系统已经直到的信息。”
+
+
+
 #2015/08/27
 
 "First, solve the problem. Then, write the code." —— Anonymous
