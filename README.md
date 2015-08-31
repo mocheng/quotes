@@ -7,6 +7,14 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/09/01
+
+"The real complexity in our jobs is that all planning is done under conditions of uncertainty and ignorance. The code isn't the only thing that changes. Schedules slip. New milestones are added for new features. Features are cut from the release. During development, everyone - marketers, developers and testers - comes to understand better what the product is really for." - Brian Marick
+
+"我们工作中真正复杂的东西是所有的计划都是在不确定和无知中做的，代码不是唯一会变的东西，日程会更改，新的阶段被添加，新的功能被添加，又有功能会被砍掉，每个人——市场人员、开发人员、测试人员，都是在开发过程中才逐渐理解做的产品是个什么玩意。”
+
+
+
 #2015/08/31
 
 "We work because it's a chain reaction, each subject leads to the next." - Charles Eames
