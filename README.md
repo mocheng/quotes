@@ -7,6 +7,13 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 从2014年12月15日开始，每个工作日，我发一条关于软件工程的语录，有的是别人说的，我翻译一下；有的是我自己的感悟，就当自我表达吧。
 
+#2015/09/02
+
+"Never allow the same bug to bite you twice." - Steve Maguire
+
+“别被同一个bug咬两次。”
+
+
 #2015/09/01
 
 "The real complexity in our jobs is that all planning is done under conditions of uncertainty and ignorance. The code isn't the only thing that changes. Schedules slip. New milestones are added for new features. Features are cut from the release. During development, everyone - marketers, developers and testers - comes to understand better what the product is really for." - Brian Marick
