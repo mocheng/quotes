@@ -11,7 +11,7 @@ Since 2014-12-15, I published one sentence about software engineering every work
 
 "Nothing is more dangerous than an idea, when it's the only one we have." ―Émile Chartier
 
-“我们如果如果只有一个想法，那就很危险了。”
+“我们如果只有一个想法，那就很危险了。”
 
 #2015/09/02
 
@@ -98,7 +98,7 @@ If the programmers like each other, they play a game called "pair programming". 
 
 "The best engineers I know are artists at heart. The best designers I know are secretly technicians as well" - @Trenti
 
-“我所认识的最好的工程师内心其实是艺术家，我所认识的最好的额设计师内心是技术人员。”
+“我所认识的最好的工程师内心其实是艺术家，我所认识的最好的设计师内心是技术人员。”
 
 
 #2015/08/14
