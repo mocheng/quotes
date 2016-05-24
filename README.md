@@ -1,6 +1,8 @@
 # quotes
 software engineering quotes
 
+我发现一个更好的发布每日一句的平台——微信，所以转战微信公众号了，在微信中搜索morgandaily可以找到“Morgan的每日一句”，欢迎关注:-)
+
 软件工程相关的语录
 
 Since 2014-12-15, I published one sentence about software engineering every workday. Some of them are translated quotes, others are my own words which express myself.
